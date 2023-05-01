@@ -12,14 +12,6 @@ import java.awt.event.ActionListener;
 import java.text.DecimalFormat;
 import java.util.Stack;
 
-/**
- * @Author  xhy
- * @Date  2023/5/1 16:18
- * @description: 计算器
- * @Title: MyCalculater
- * @Package PACKAGE_NAME
- */
-
 public class MyCalculator implements ActionListener {
     // 定义主窗口并命名
     private final JFrame jf = new JFrame("计算器");
